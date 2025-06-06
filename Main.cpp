@@ -10,9 +10,9 @@ int main(){
     cin>>user;
 
     if (user != "" || user != " "){
-        cout<<"Hola "<<user<<endl;
+        cout<<"Hola buendo dias"<<user<<endl;
     }else{
-        cout <<"HOLA MUNDO"<<endl;
+        cout <<"sea serio no ingreso nada"<<endl;
     }
 
 }
